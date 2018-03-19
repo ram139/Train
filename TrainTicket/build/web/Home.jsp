@@ -33,26 +33,38 @@ self.close()
       <a href="Home.jsp">Home</a>
     </li>
     <li>
-      <a href="">Courses</a>
+      <a href="">Search</a>
       <ul class="sub">
-        <li><a href="">CSE</a></li>
-        <li><a href="">EEE</a></li>
-        <li><a href="">Mech</a></li>
+        <li><a href="">Routes</a></li>
       </ul>
     </li>
     <li>
-      <a href="">Faculty</a>
+      <a href="">Getfares</a>
       <ul class="sub">
-        <li><a href="">B.Tech</a></li>
-        <li><a href="">MBA</a></li>
+        <li><a href="">ID</a></li>
+        <li><a href="">Routes</a></li>
       </ul>  
     </li>
     <li>
-      <a href="">Students</a>
+      <a href="">Profile</a>
       <ul class="sub">
-        <li><a href="">B.Tech</a></li>
-        <li><a href="">ASCOM</a></li>
-        <li><a href="">MBA</a></li>
+        <li><a href="">View</a></li>
+        <li><a href="">Change</a></li>
+      </ul>  
+    </li>
+    <li>
+      <a href="">Wallet</a>
+      <ul class="sub">
+        <li><a href="">View</a></li>
+        <li><a href="">Add</a></li>
+        
+      </ul>  
+    </li>
+    <li>
+      <a href="">BookTicket</a>
+      <ul class="sub">
+        <li><a href="">ID</a></li>
+        <li><a href="">Routes</a></li>
       </ul>  
     </li>
     <li>
