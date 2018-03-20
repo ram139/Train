@@ -48,7 +48,8 @@ self.close()
     <li>
       <a href="">Profile</a>
       <ul class="sub">
-        <li><a href="">View</a></li>
+        
+        <li><button type="reset" onclick="location.href='User_profile.html'"> View</button></li>
         <li><a href="">Change</a></li>
       </ul>  
     </li>
